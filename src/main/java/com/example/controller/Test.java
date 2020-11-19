@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Test {
 	@RequestMapping("/test")
 	public String index() {
-		return "USA BAD4";
+		return "USA BAD5";
 	}
 }
